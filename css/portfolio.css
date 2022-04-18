@@ -5,4 +5,18 @@ h1 {
     background-color: cornflowerblue;
     color: lightgray;
     margin: 0 auto;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif; ;
+}
+h3 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: lightgray;
+    background-color: cornflowerblue;
+    border-radius: 9px;
+    padding: 10px;
 }
