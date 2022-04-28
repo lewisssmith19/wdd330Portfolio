@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Week 2 Team Assignment</title>
+  <link rel="stylesheet" href="../css/W02.css"/>
+</head>
+
+<body>
+  <input id="input1" type="text" />
+  <button id="button1" onclick="readInput1()">Click</button>
+  <div id="output1"></div>
+
+  <input id="input2" type="text" />
+  <button id="button2" onclick="sumInput2()">Sum</button>
+  <div id="output2"></div>
+
+  <input id="input3" type="text" />
+  <button id="button3" onclick="sumInputs()">+</button>
+  <div id="output3"></div>
+
+
+<script>
+    function readInput1() {
+    const input = document.getElementById('input1').value;
+    const output = document.getElementById('output1');
+    output.innerHTML = input;
+  }
+
+  function sumInput2() {
+    const input = document.getElementById('input2').value;
+    const output = document.getElementById('output2');
+    let number = parseInt(input);
+    if (number !== NaN) {
+      output.innerHTML = sum(number);
+    } 
+  }
+
+  function sum(num) {
+    let answer = 0;
+    for (let i = 1; i <= num; i++) {
+      answer += i;
+    }
+    return answer;
+  }
+
+  function sumInputs() {
+    const input1 = document.getElementById('input1').value;
+    const input2 = document.getElementById('input2').value;
+    const input3 = document.getElementById('input3').value;
+    const output = document.getElementById('output3');
+    let sum = 0;
+    
+    sum = parseInt(input1) + parseInt(input2) + parseInt(input3);
+    output.innerHTML = sum;
+  }
+</script>
+</body>
+
+</html>
