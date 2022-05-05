@@ -1,22 +1,29 @@
-h1 {
-    font-size: x-large;
-    padding: 20px;
-    border-radius: 9px;
-    background-color: cornflowerblue;
-    color: lightgray;
-    margin: 0 auto;
-    font-family: 'Anton', sans-serif;
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Roboto', sans-serif; ;
-}
-h3 {
-    font-family: 'Anton', sans-serif;
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Roboto', sans-serif;
-    color: lightgray;
-    background-color: cornflowerblue;
-    border-radius: 9px;
-    padding: 10px;
+@media only screen and (min-width:   32.5em) {
+    footer{
+        background-color: #517AD8;
+        border-radius: 10px;
+        margin-top: 25px;
+        box-shadow: 0 0 30px #517AD8;
+    }
+    header {
+        background-color: #517AD8;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+    }
+    header img {
+        width: 220px;
+        height: auto;
+        padding: 1em;
+        border-radius: 100px;
+    }
+    h1 {
+        font-size: 2.5rem;
+        font-family: "Audiowide", sans-serif; 
+    }
+    h2 {
+        font-size: 1.5rem;
+        font-family: "Audiowide", sans-serif; 
+    }
 }
