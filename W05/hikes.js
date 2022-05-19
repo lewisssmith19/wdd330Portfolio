@@ -78,8 +78,9 @@ const hikeList = [
   function renderOneHikeLight(hike) {
     const item = document.createElement("li");
     item.innerHTML = ` <h2>${hike.name}</h2>
+  <div class='flex'>
     <div class="image"><img src="${imgBasePath}${hike.imgSrc}" alt="${hike.imgAlt}"></div>
-    <div>
+    <div class="text">
             <div>
                 <h3>Distance</h3>
                 <p>${hike.distance}</p>
@@ -88,7 +89,16 @@ const hikeList = [
                 <h3>Difficulty</h3>
                 <p>${hike.difficulty}</p>
             </div>
-    </div>`;
+            <div>
+                <h3>Description</h3>
+                <p>${hike.description}</p>
+            </div>
+            <div>
+                <h3>Directions</h3>
+                <p>${hike.directions}</p>
+            </div>
+    </div>
+  </div>`;
     return item;
   }
   function renderOneHikeFull(hike) {
