@@ -68,8 +68,8 @@
   }
   
   .close:hover {
-    background-color: #227E62;
-    color: #fff;
+    background-color: #FF2D28;
+    color: black;
   }
   
   /* Style the header */
@@ -78,6 +78,7 @@
     padding: 30px 40px;
     color: #fff;
     text-align: center;
+    font-family: 'Comfortaa', cursive;
   }
   
   /* Clear floats after the header */
