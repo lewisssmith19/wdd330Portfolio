@@ -1,6 +1,7 @@
 /* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
+    border-radius: 10px;
   }
   
   /* Remove margins and padding from the list */
@@ -23,6 +24,7 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    border-radius: 10px;
   }
   
   /* Set all odd list items to a different color (zebra-stripes) */
@@ -38,7 +40,7 @@
   /* When clicked on, add a background color and strike out text */
   ul li.checked {
     background: #888;
-    color: #fff;
+    color: #FFBF00;
     text-decoration: line-through;
   }
   
@@ -46,7 +48,7 @@
   ul li.checked::before {
     content: '';
     position: absolute;
-    border-color: #fff;
+    border-color: #FFBF00;
     border-style: solid;
     border-width: 0 2px 2px 0;
     top: 10px;
@@ -65,15 +67,15 @@
   }
   
   .close:hover {
-    background-color: #f44336;
-    color: white;
+    background-color: #0291FF;
+    color: #FFBF00;
   }
   
   /* Style the header */
   .header {
-    background-color: #f44336;
+    background-color: #0291FF;
     padding: 30px 40px;
-    color: white;
+    color: #FFBF00;
     text-align: center;
   }
   
