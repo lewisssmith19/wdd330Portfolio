@@ -1,7 +1,7 @@
 @media only screen and (min-width:   32.5em) {
     footer{
         background-color: #517AD8;
-        border-radius: 10px;
+        border-radius: 4px;
         margin-top: 25px;
         box-shadow: 0 0 30px #517AD8;
     }
@@ -10,6 +10,7 @@
         display: flex;
         align-items: center;
         justify-content: space-around;
+        border-radius: 10px;
 
     }
     header img {
