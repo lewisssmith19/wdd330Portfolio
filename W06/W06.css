@@ -39,8 +39,8 @@
   
   /* When clicked on, add a background color and strike out text */
   ul li.checked {
-    background: #888;
-    color: #FFBF00;
+    background: #227E62;
+    color: #BF6434;
     text-decoration: line-through;
   }
   
@@ -48,7 +48,7 @@
   ul li.checked::before {
     content: '';
     position: absolute;
-    border-color: #FFBF00;
+    border-color: #BF6434;
     border-style: solid;
     border-width: 0 2px 2px 0;
     top: 10px;
@@ -67,13 +67,13 @@
   }
   
   .close:hover {
-    background-color: #457396;
+    background-color: #227E62;
     color: #fff;
   }
   
   /* Style the header */
   .header {
-    background-color: #457396;
+    background-color: #227E62;
     padding: 30px 40px;
     color: #fff;
     text-align: center;
@@ -101,7 +101,7 @@
   .addBtn {
     padding: 10px;
     width: 25%;
-    background: #E9B063;
+    background: #BF6434;
     color: #555;
     float: left;
     text-align: center;
@@ -112,5 +112,5 @@
   }
   
   .addBtn:hover {
-    background-color: #bbb;
+    background-color: #BF6434;
   }
