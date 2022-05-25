@@ -102,7 +102,7 @@
     padding: 10px;
     width: 25%;
     background: #BF6434;
-    color: #555;
+    color: #fff;
     float: left;
     text-align: center;
     font-size: 16px;
@@ -112,5 +112,5 @@
   }
   
   .addBtn:hover {
-    background-color: #BF6434;
+    background-color: #27FEBD;
   }
