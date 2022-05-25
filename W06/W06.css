@@ -18,6 +18,7 @@
     background: #eee;
     font-size: 18px;
     transition: 0.2s;
+    font-family: 'Comfortaa', cursive;
   
     /* make the list items unselectable */
     -webkit-user-select: none;
@@ -40,7 +41,7 @@
   /* When clicked on, add a background color and strike out text */
   ul li.checked {
     background: #227E62;
-    color: #BF6434;
+    color: #FF7328;
     text-decoration: line-through;
   }
   
@@ -109,8 +110,9 @@
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
+    font-family: 'Comfortaa', cursive;
   }
   
   .addBtn:hover {
-    background-color: #27FEBD;
+    background-color: #FF7328;
   }
