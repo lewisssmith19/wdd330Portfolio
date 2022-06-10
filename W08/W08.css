@@ -6,8 +6,10 @@ body {
     justify-content: center;
     align-items: center;
     margin:auto;
+    grid-template-columns: 1fr;
 }
 
 #people {
     margin-bottom: 30px;
+    grid-template-columns: 1fr;
 }
