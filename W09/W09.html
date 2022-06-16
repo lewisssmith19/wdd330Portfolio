@@ -67,20 +67,15 @@
     let key = div.dataset.key;
     let data = document.querySelectorAll(`[data-key="${key}"]`);
     let audio = data[1];
-    let count = 0;
+  
+    let size = 0; 
+    
     audio.addEventListener('play', (event) => {
       removePlaying(div);
       div.classList.add("playing");
       let timeout = setTimeout(removePlaying, (audio.duration*1000), div)
-      
-      if(count < 10){
-        let style = div.getPropertyValue('top');
-        console.log(style);
-        let size = parseFloat(style);
-        size += 10;
-        div.style.top = size+ "px"; 
-        
-      }
+      size = size - 10;
+      div.style.top = size+ "px"; 
     });
   });
   
