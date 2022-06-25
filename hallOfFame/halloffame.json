@@ -1,0 +1,53 @@
+{
+    "players": [
+        {
+            "name": "Michael Jordan",
+            "bio": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player.  He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the NBA and of 23XI Racing in the NASCAR Cup Series.",
+            "heightWeight": "Height 6ft 6in Weight 216 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-michael-jordan",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/michaelJordan.jpg?v=1656189344550"
+        },
+        {
+            "name": "Kobe Bryant",
+            "bio": "Kobe Bryant (Born August 23, Died 1978 January 26, 2020) was an American professional basketball player. A shooting guard, he spent his entire 20-year career with the Los Angeles Lakers in the National Basketball Association (NBA). Widely regarded as one of the greatest basketball players of all time, Bryant won five NBA championships, was an 18-time All-Star, a 15-time member of the All-NBA Team, a 12-time member of the All-Defensive Team, the 2008 NBA Most Valuable Player (MVP), and a two-time NBA Finals MVP. Bryant also led the NBA in scoring twice, and ranks fourth in league all-time regular season and postseason scoring.",
+            "heightWeight": "Height 6ft 6in Weight 212 lbs",
+            "website": "https://www.nba.com/kobe-bryant-tribute",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/kobeBryant.jpg?v=1656189989592"
+        },
+        {
+            "name": "Stephen Curry",
+            "bio": "Stephen Curry II (born March 14, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Widely regarded as one of the greatest basketball players of all time, and as the greatest shooter in NBA history, Curry is credited with revolutionizing the sport by inspiring teams and players to more frequently utilize the three-point shot. An eight-time NBA All-Star and eight-time All-NBA selection, including four times on the first team, he has been named the NBA Most Valuable Player (MVP) twice, has won four NBA championships, an NBA Finals MVP Award, and an NBA All-Star Game MVP Award.",
+            "heightWeight": "Height 6ft 2in Weight 185 lbs",
+            "website": "https://www.nba.com/player/201939/stephen-curry/bio",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/stephenCurry.jpg?v=1656190392769"
+        },
+        {
+            "name": "Shaquille O'Neal",
+            "bio": "Shaquille O'Neal (born March 6, 1972), known commonly as Shaq. After playing college basketball for the LSU Tigers, O'Neal was drafted by the Orlando Magic with the first overall pick in the 1992 NBA draft. He quickly became one of the best centers in the league, winning Rookie of the Year in 1992–1993 and leading his team to the 1995 NBA Finals. After four years with the Magic, O'Neal signed as a free agent with the Los Angeles Lakers. They won three consecutive championships in 2000, 2001, and 2002. Amid tension between O'Neal and Kobe Bryant, O'Neal was traded to the Miami Heat in 2004, and his fourth NBA championship followed in 2006.",
+            "heightWeight": "Height 7ft 1in Weight 325 lbs",
+            "website": "https://www.nba.com/stats/player/406/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/ShaquilleO'Neal.jpg?v=1656190913447"
+        },
+        {
+            "name": "Michael Jordan",
+            "bio": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player.  He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the NBA and of 23XI Racing in the NASCAR Cup Series.",
+            "heightWeight": "Height 6ft 6in Weight 216 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-michael-jordan",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/michaelJordan.jpg?v=1656189344550"
+        },
+        {
+            "name": "Michael Jordan",
+            "bio": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player.  He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the NBA and of 23XI Racing in the NASCAR Cup Series.",
+            "heightWeight": "Height 6ft 6in Weight 216 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-michael-jordan",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/michaelJordan.jpg?v=1656189344550"
+        },
+        {
+            "name": "Michael Jordan",
+            "bio": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player.  He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the NBA and of 23XI Racing in the NASCAR Cup Series.",
+            "heightWeight": "Height 6ft 6in Weight 216 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-michael-jordan",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/michaelJordan.jpg?v=1656189344550"
+        }
+    ]
+}

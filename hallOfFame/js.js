@@ -1,5 +1,5 @@
-const requestURL = 'https://lewisssmith19.github.io/wdd230/js/data.json';
-let companies = document.querySelector('.companies'); 
+const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4af5d8c7406f.js';
+let players = document.querySelector('.players'); 
 
 fetch(requestURL)
   .then(function (response) {
@@ -7,27 +7,27 @@ fetch(requestURL)
   })
   .then(function (jsonObject) {
     console.table(jsonObject);
-    const companys = jsonObject['companies'];
-    companys.forEach(displayCompanies); 
+    const companys = jsonObject['players'];
+    companys.forEach(displayPlayers); 
   });
   
 
   
 
-  function displayCompanies(company) {
+  function displayPlayers(company) {
 
     let card = document.createElement('section');
     let h2 = document.createElement('h2');
 
-    let address = document.createElement('address');
-    let phone = document.createElement('phone');
+    let bio = document.createElement('bio');
+    let heightWeight = document.createElement('heightWeight');
     let a = document.createElement('a');
     let portrait = document.createElement('img');
   
     
     h2.textContent = company.name;
-    address.textContent = company.address; 
-    phone.textContent = company.phone;
+    bio.textContent = company.bio; 
+    heightWeight.textContent = company.heigtWeight;
     a.textContent = company.website;
     a.setAttribute('target', '_blank');
   
@@ -38,12 +38,12 @@ fetch(requestURL)
     card.appendChild(h2);
     card.appendChild(portrait);
   
-    card.appendChild(phone);
-    card.appendChild(address);
+    card.appendChild(heightWeight);
+    card.appendChild(bio);
     card.appendChild(a);
    
 
   
-    companies.appendChild(card);
+    players.appendChild(card);
 
   }
