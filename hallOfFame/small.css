@@ -23,36 +23,40 @@
 #listView h2 {
     display: block;
 }
-.companies phone {
+.players heightWeight {
     font-family: 'Varela Round', sans-serif;
     padding: 5px;
     font-size: large;
     display: block;
 }
-.companies h2 {
+.players h2 {
     display: none;
 }
-.companies address {
+.players bio {
     font-family: 'Varela Round', sans-serif;
     padding: 5px;
     font-size: large;
 }
-.companies a {
+.players a {
     font-family: 'Varela Round', sans-serif;
     padding: 5px;
     font-size: large;
 }
-.companies a:hover {
+.players a:hover {
     color: #fe5f55;
     cursor: pointer;
 }
-.companies img {
+.players img {
     width: 100%;
     max-width: 300px;
     border-radius: 10px;
     height: auto;
+    -webkit-transform:rotate(-7deg);
+    -moz-transform:rotate(-7deg);
+    -o-transform:rotate(-7deg);
+    transform: rotate(-7deg);
 }
-.companies {
+.players {
     padding: 15px;
     background-color: #009fb7;
     border-radius: 30px;
@@ -61,6 +65,16 @@
     grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
     width: auto;
     box-shadow: 5px 10px 18px #5dfdcb;
+}
+.directory a {
+    color: #3079C5;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+.directory a:hover {
+    color: black;
+    cursor: pointer;
 }
 .visits {
 	color: #F1AE65;
