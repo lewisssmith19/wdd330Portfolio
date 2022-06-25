@@ -7,14 +7,14 @@ fetch(requestURL)
   })
   .then(function (jsonObject) {
     console.table(jsonObject);
-    const companys = jsonObject['players'];
-    companys.forEach(displayPlayers); 
+    const player = jsonObject['players'];
+    player.forEach(displayPlayers); 
   });
   
 
   
 
-  function displayPlayers(company) {
+  function displayPlayers(player) {
 
     let card = document.createElement('section');
     let h2 = document.createElement('h2');
@@ -25,14 +25,14 @@ fetch(requestURL)
     let portrait = document.createElement('img');
   
     
-    h2.textContent = company.name;
-    bio.textContent = company.bio; 
-    heightWeight.textContent = company.heigtWeight;
-    a.textContent = company.website;
+    h2.textContent = player.name;
+    bio.textContent = player.bio; 
+    heightWeight.textContent = player.heigtWeight;
+    a.textContent = player.website;
     a.setAttribute('target', '_blank');
   
     
-    portrait.setAttribute('src', company.image);
+    portrait.setAttribute('src', player.image);
     portrait.setAttribute('loading', 'lazy');
     portrait.setAttribute('alt', 'images');
     card.appendChild(h2);
