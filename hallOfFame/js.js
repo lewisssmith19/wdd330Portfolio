@@ -36,7 +36,7 @@ fetch(requestURL)
     portrait.setAttribute('loading', 'lazy');
     portrait.setAttribute('alt', 'images');
     card.appendChild(h2);
-    card.appendChild(portrait);
+    card.appendChild(img);
   
     card.appendChild(heightWeight);
     card.appendChild(bio);
