@@ -7,8 +7,8 @@ fetch(requestURL)
   })
   .then(function (jsonObject) {
     console.table(jsonObject);
-    const player = jsonObject['players'];
-    player.forEach(displayPlayers); 
+    const players = jsonObject['players'];
+    players.forEach(displayPlayers); 
   });
   
 
