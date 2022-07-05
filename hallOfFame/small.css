@@ -125,7 +125,7 @@ form input {
 }
 form input.submitBtn {
     border: none;
-    background-color: #5dfdcb;
+    background-color: #009fb7;
     color: #000000;
     border-radius: 5px;
     padding: .75rem 1.5rem;
@@ -136,8 +136,8 @@ form input.submitBtn {
     max-width: 20rem;
 }
 form input.submitBtn:hover {
-    background-color: #5DFDCB;
-    color: #FE5F55;
+    background-color: #fe5f55;
+    color: #000000;
     font-size: larger;
     cursor: pointer;
 }
