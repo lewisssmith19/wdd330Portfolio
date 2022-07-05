@@ -66,13 +66,13 @@
     width: auto;
     box-shadow: 5px 10px 18px #5dfdcb;
 }
-.directory a {
+.hallOfFame a {
     color: #3079C5;
     font-size: larger;
     text-align: center;
     font-family: 'Varela Round', sans-serif;
 }
-.directory a:hover {
+.hallOfFame a:hover {
     color: black;
     cursor: pointer;
 }
@@ -106,10 +106,10 @@ form label.top, form div {
 }
 form fieldset {
     margin: 2rem 0;
-    border: 10px solid #F1AE65;
+    border: 10px solid #000000;
     border-radius: 5px;
     padding: .5rem 2%;
-    background-color: #2594EB;
+    background-color: #5dfdcb;
 }
 form legend {
     color: #000000;
@@ -120,7 +120,7 @@ form legend {
 }
 form input.submitBtn {
     border: none;
-    background-color: #fe5f55;
+    background-color: #5dfdcb;
     color: #000000;
     border-radius: 5px;
     padding: .75rem 1.5rem;
