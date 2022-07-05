@@ -81,3 +81,11 @@
 	font-weight: bolder;
 	font-size: larger;
 }
+header {
+    display: grid;
+    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
+    background-color: #3079C5;
+    font-family: 'Varela Round', sans-serif;
+}
