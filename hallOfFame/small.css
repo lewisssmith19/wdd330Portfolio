@@ -86,8 +86,9 @@ header {
     grid-template-columns: 1fr;
     display: flex;
     flex-direction: column;
-    background-color: #3079C5;
+    background-color: #5DFDCB;
     font-family: 'Varela Round', sans-serif;
+    padding: 20px;
 }
 h1, h2, h3, h4, p {
     text-align: center;
@@ -130,7 +131,7 @@ form input.submitBtn {
     max-width: 20rem;
 }
 form input.submitBtn:hover {
-    background-color: #3079C5;
-    color: #5dfdcb;
+    background-color: #5DFDCB;
+    color: #FE5F55;
     font-size: larger;
 }
