@@ -89,6 +89,7 @@ header {
     background-color: #5DFDCB;
     font-family: 'Varela Round', sans-serif;
     padding: 20px;
+    border-radius: 5px;
 }
 h1, h2, h3, h4, p {
     text-align: center;
@@ -118,6 +119,10 @@ form legend {
     font-family: 'Varela Round', sans-serif;
     font-size:xx-large;
 }
+form input {
+    background-color: #009fb7;
+    color: aliceblue;
+}
 form input.submitBtn {
     border: none;
     background-color: #5dfdcb;
@@ -134,4 +139,5 @@ form input.submitBtn:hover {
     background-color: #5DFDCB;
     color: #FE5F55;
     font-size: larger;
+    cursor: pointer;
 }
