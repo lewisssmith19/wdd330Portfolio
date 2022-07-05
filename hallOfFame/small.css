@@ -137,7 +137,7 @@ form input.submitBtn {
 }
 form input.submitBtn:hover {
     background-color: #fe5f55;
-    color: #009fb7;
+    color: #000000;
     font-size: larger;
     cursor: pointer;
 }
