@@ -148,3 +148,6 @@ form input.submitBtn:hover {
     font-size: larger;
     cursor: pointer;
 }
+form h3 {
+    display: inline;
+}
