@@ -148,6 +148,11 @@ form input.submitBtn:hover {
     font-size: larger;
     cursor: pointer;
 }
+form input.submitBtn:active {
+    background-color: #fe5f55;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
 form h3 {
     display: inline;
 }
@@ -166,4 +171,9 @@ form h3 {
     border-radius: 5px;
     padding: 15px;
     font-family: 'Varela Round', sans-serif;
+}
+.backbtn2:active {
+    background-color: #5dfdcb;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
 }
