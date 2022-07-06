@@ -141,6 +141,7 @@ form input.submitBtn {
     margin: 0 0 2rem 2%;
     width: 96%;
     max-width: 20rem;
+    box-shadow: 0 9px #999;
 }
 form input.submitBtn:hover {
     background-color: #fe5f55;
@@ -165,12 +166,13 @@ form h3 {
     font-family: 'Varela Round', sans-serif;
 
 }
-.button2 {
+.button {
     background-color: #5dfdcb;
     color: #000000;
     border-radius: 5px;
     padding: 15px;
     font-family: 'Varela Round', sans-serif;
+    box-shadow: 0 9px #999;
 }
 .button:active {
     background-color: #5dfdcb;
