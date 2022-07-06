@@ -165,14 +165,14 @@ form h3 {
     font-family: 'Varela Round', sans-serif;
 
 }
-.backbtn2 {
+.button2 {
     background-color: #5dfdcb;
     color: #000000;
     border-radius: 5px;
     padding: 15px;
     font-family: 'Varela Round', sans-serif;
 }
-.backbtn2:active {
+.button:active {
     background-color: #5dfdcb;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
