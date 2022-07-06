@@ -158,4 +158,12 @@ form h3 {
     border-radius: 5px;
     padding: 15px;
     font-family: 'Varela Round', sans-serif;
+
+}
+.backbtn btn {
+    background-color: #5dfdcb;
+    color: #000000;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: 'Varela Round', sans-serif;
 }
