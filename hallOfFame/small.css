@@ -267,7 +267,7 @@ button:active {
     font-size: 16px;
   }
   
-  .addbtn {
+  .addBtn {
     border: none;
     background-color: #009fb7;
     color: #000000;
@@ -280,7 +280,7 @@ button:active {
     max-width: 20rem;
     box-shadow: 0 9px #999;
 }
-.addbtn:hover {
+.addBtn:hover {
     background-color: #fe5f55;
     color: #000000;
     font-size: larger;
