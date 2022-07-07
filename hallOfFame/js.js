@@ -1,7 +1,7 @@
 const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4af5d8c7406f.js';
 let players = document.querySelector('.players'); 
-
-fetch(requestURL)
+const TempURL = './halloffame.json';
+fetch(TempURL)
   .then(function (response) {
     return response.json();
   })
