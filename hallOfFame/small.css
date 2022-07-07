@@ -241,23 +241,23 @@ button:active {
   }
   
   /* Style the header */
-  .header {
+  /* .header {
     background-color: #5dfdcb;
     padding: 30px 40px;
     color: black;
     text-align: center;
     font-family: 'Comfortaa', cursive;
-  }
+  } */
   
   /* Clear floats after the header */
-  .header:after {
+  /* .header:after {
     content: "";
     display: table;
     clear: both;
-  }
+  } */
   
   /* Style the input */
-  input {
+  /* input {
     margin: 0;
     border: none;
     border-radius: 0;
@@ -265,7 +265,7 @@ button:active {
     padding: 10px;
     float: left;
     font-size: 16px;
-  }
+  } */
   
   .addBtn {
     border: none;
