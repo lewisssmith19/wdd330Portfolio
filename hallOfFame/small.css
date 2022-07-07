@@ -99,7 +99,7 @@ h1, h2, h3, h4, p {
 .warning {
     background-color: red;
     color: #000000;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
     font-family: 'Varela Round', sans-serif;
     font-variant: all-small-caps;
