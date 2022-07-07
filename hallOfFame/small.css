@@ -158,6 +158,13 @@ form input.submitBtn:active {
 form h3 {
     display: inline;
 }
+form label.top input:required {
+    border-left: red solid 6px;
+}
+form label.top input:required:valid {
+    border-left: green solid 6px;
+}
+
 
 .backbtn {
     background-color: #009fb7;
