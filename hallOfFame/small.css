@@ -225,7 +225,7 @@ button:active {
   
   /* Darker background-color on hover */
   ul li:hover {
-    background: #5dfdcb;
+    background: #fe5f55css;
   }
   /* Style the close button */
   .close {
@@ -279,6 +279,7 @@ button:active {
     width: 96%;
     max-width: 20rem;
     box-shadow: 0 9px #999;
+    display: table-cell;
 }
 .addBtn:hover {
     background-color: #fe5f55;
