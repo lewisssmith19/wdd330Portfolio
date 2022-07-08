@@ -195,13 +195,13 @@ button:active {
   }
   
   /* Remove margins and padding from the list */
-  ul {
+  ol {
     margin: 0;
     padding: 30px;
   }
   
   /* Style the list items */
-  ul li {
+  ol li {
     cursor: pointer;
     position: relative;
     padding: 12px 8px 12px 40px;
@@ -219,12 +219,12 @@ button:active {
   }
   
   /* Set all odd list items to a different color (zebra-stripes) */
-  ul li:nth-child(odd) {
+  ol li:nth-child(odd) {
     background: #009fb7;
   }
   
   /* Darker background-color on hover */
-  ul li:hover {
+  ol li:hover {
     background: #fe5f55;
   }
   /* Style the close button */
