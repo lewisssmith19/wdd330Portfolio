@@ -191,7 +191,7 @@ button:active {
 /* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
-    border-radius: 10px;
+    border-radius: 5px;
   }
   
   /* Remove margins and padding from the list */
@@ -260,7 +260,7 @@ button:active {
   .listinput {
     margin: 0;
     border: none;
-    border-radius: 0;
+    border-radius: 5px;
     width: 75%;
     padding: 10px;
     float: left;
