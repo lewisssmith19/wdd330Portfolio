@@ -1,9 +1,9 @@
-const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4af5d8c7406f';
-// const TempURL = './halloffame2.json';
+// const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4af5d8c7406f.js';
+const TempURL = './halloffame.json';
 let players = document.querySelector('.players'); 
 // const jsonData = ('./halloffame.json'); 
 // console.log(jsonData);
-fetch(requestURL)
+fetch(TempURL)
   .then(function (response) {
     return response();
   })
