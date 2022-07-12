@@ -1,8 +1,8 @@
 // const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4af5d8c7406f.js';
 // let players = document.querySelector('.players'); 
-// const TempURL = './halloffame.json';
-const jsonData = require('./halloffame.json'); 
-console.log(jsonData);
+const TempURL = './halloffame.json';
+// const jsonData = ('./halloffame.json'); 
+// console.log(jsonData);
 fetch(TempURL)
   .then(function (response) {
     console.log(response)
