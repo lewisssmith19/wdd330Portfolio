@@ -1,0 +1,74 @@
+{
+    "players": [
+        {
+            "name": "Michael Jordan",
+            "bio": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player.  He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the NBA and of 23XI Racing in the NASCAR Cup Series.",
+            "heightWeight": "Height 6ft 6in Weight 216 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-michael-jordan",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/michaelJordan.jpg?v=1656189344550"
+        },
+        {
+            "name": "Kobe Bryant",
+            "bio": "Kobe Bryant (Born August 23, Died 1978 January 26, 2020) was an American professional basketball player. A shooting guard, he spent his entire 20-year career with the Los Angeles Lakers in the National Basketball Association (NBA). Widely regarded as one of the greatest basketball players of all time, Bryant won five NBA championships, was an 18-time All-Star, a 15-time member of the All-NBA Team, a 12-time member of the All-Defensive Team, the 2008 NBA Most Valuable Player (MVP), and a two-time NBA Finals MVP. Bryant also led the NBA in scoring twice, and ranks fourth in league all-time regular season and postseason scoring.",
+            "heightWeight": "Height 6ft 6in Weight 212 lbs",
+            "website": "https://www.nba.com/kobe-bryant-tribute",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/kobeBryant.jpg?v=1656189989592"
+        },
+        {
+            "name": "Stephen Curry",
+            "bio": "Stephen Curry II (born March 14, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Widely regarded as one of the greatest basketball players of all time, and as the greatest shooter in NBA history, Curry is credited with revolutionizing the sport by inspiring teams and players to more frequently utilize the three-point shot. An eight-time NBA All-Star and eight-time All-NBA selection, including four times on the first team, he has been named the NBA Most Valuable Player (MVP) twice, has won four NBA championships, an NBA Finals MVP Award, and an NBA All-Star Game MVP Award.",
+            "heightWeight": "Height 6ft 2in Weight 185 lbs",
+            "website": "https://www.nba.com/player/201939/stephen-curry/bio",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/stephenCurry.jpg?v=1656190392769"
+        },
+        {
+            "name": "Shaquille O'Neal",
+            "bio": "Shaquille O'Neal (born March 6, 1972), known commonly as Shaq. After playing college basketball for the LSU Tigers, O'Neal was drafted by the Orlando Magic with the first overall pick in the 1992 NBA draft. He quickly became one of the best centers in the league, winning Rookie of the Year in 1992–1993 and leading his team to the 1995 NBA Finals. After four years with the Magic, O'Neal signed as a free agent with the Los Angeles Lakers. They won three consecutive championships in 2000, 2001, and 2002. Amid tension between O'Neal and Kobe Bryant, O'Neal was traded to the Miami Heat in 2004, and his fourth NBA championship followed in 2006.",
+            "heightWeight": "Height 7ft 1in Weight 325 lbs",
+            "website": "https://www.nba.com/stats/player/406/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/ShaquilleO'Neal.jpg?v=1656190913447"
+        },
+        {
+            "name": "Charles Barkley",
+            "bio": "Charles Wade Barkley (born February 20, 1963) is an American former professional basketball player who is a television analyst on TNT. Nicknamed Sir Charles, Chuck, and the Round Mound of Rebound, Barkley played 16 seasons in the National Basketball Association (NBA) for three teams. Though shorter than the typical power forward, he used his strength and aggressiveness to become one of the NBA's most dominant rebounders. He was a versatile player who had the ability to score, create plays, and defend.",
+            "heightWeight": "Height 6ft 6in Weight 252 lbs",
+            "website": "https://www.nba.com/stats/player/787/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/charlesBarkley.jpg?v=1656192134393"
+        },
+        {
+            "name": "Robert Jerry Lanier Jr.",
+            "bio": "Robert Jerry Lanier Jr. (born September 10, 1948 died May 10, 2022) was an American professional basketball player who was a center for the Detroit Pistons and the Milwaukee Bucks of the National Basketball Association (NBA). Lanier was inducted into the Naismith Memorial Basketball Hall of Fame in 1992. In 14 NBA seasons, Lanier played in eight NBA All-Star Games and was named Most Valuable Player of the 1974 game.",
+            "heightWeight": "Height 6ft 11in Weight 250 lbs",
+            "website": "https://www.nba.com/news/history-nba-legend-bob-lanier",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/bobLanier.jpg?v=1656192404212"
+        },
+        {
+            "name": "Kareem Abdul-Jabbar",
+            "bio": "Kareem Abdul-Jabbar (born April 16, 1947) is an American former professional basketball player who played 20 seasons in the National Basketball Association (NBA) for the Milwaukee Bucks and the Los Angeles Lakers. During his career as a center, Abdul-Jabbar was a record six-time NBA Most Valuable Player (MVP), a record 19-time NBA All-Star, a 15-time All-NBA Team member, and an 11-time NBA All-Defensive Team member. He was a member of six NBA championship teams as a player and two more as an assistant coach, and was twice voted NBA Finals MVP.",
+            "heightWeight": "Height 7ft 2in Weight 225 lbs",
+            "website": "https://www.nba.com/stats/player/76003/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/kareemAbdul.jpg?v=1656192802739"
+        },
+        {
+            "name": "Chris Webber",
+            "bio": "Mayce Edward Christopher Webber III (born March 1, 1973) is an American former professional basketball player and former sportscaster. He is a 5-time NBA All-Star, a 5-time All-NBA Team member, a former NBA Rookie of the Year, and a former number one overall NBA draftee for the Golden State Warriors. He later played for teams including the Washington Bullets, Sacramento Kings, Philadelphia 76ers, and Detroit Pistons. As a collegiate athlete, he was a first-team All-American and led the Michigan Wolverines' 1991 incoming freshman class known as the Fab Five that reached the 1992 and 1993 NCAA Men's Division I Basketball Championship games as freshmen and sophomores.",
+            "heightWeight": "Height 6ft 10in Weight 245 lbs",
+            "website": "https://www.nba.com/stats/player/185/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/chrisWebber.jpg?v=1656193122696"
+        },
+        {
+            "name": "Larry Bird",
+            "bio": "Larry Joe Bird (born December 7, 1956) is an American former professional basketball player, coach and executive in the National Basketball Association (NBA). Nicknamed the Hick from French Lick and Larry Legend, Bird is widely regarded as one of the greatest basketball players of all time. Growing up in French Lick, Indiana, he was a local basketball star. Highly recruited, he initially signed to play college basketball for coach Bobby Knight of the Indiana Hoosiers, but dropped out after one month and returned to French Lick to attend a local community college. The next year he attended the smaller Indiana State University, playing ultimately for three years for the Sycamores. Drafted by the Boston Celtics with the sixth overall pick in the 1978 NBA draft after his second year at Indiana State, Bird elected to stay in college and play one more season. He then led his team to an undefeated regular season in 1978–1979. The season finished with a national championship game matchup against Michigan State, a team that featured Magic Johnson, beginning a career-long rivalry that the two shared for more than a decade.",
+            "heightWeight": "Height 6ft 9in Weight 220 lbs",
+            "website": "https://www.nba.com/stats/player/1449",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/larryBird.jpg?v=1656193417365"
+        },
+        {
+            "name": "Dennis Rodman",
+            "bio": "Dennis Keith Rodman (born May 13, 1961) is an American former professional basketball player, actor and unofficial US Peace Ambassador to North Korea. Known for his fierce defensive and rebounding abilities, his biography on the official NBA website states that he is arguably the best rebounding forward in NBA history. Nicknamed the Worm, he played for the Detroit Pistons, San Antonio Spurs, Chicago Bulls, Los Angeles Lakers, and Dallas Mavericks of the National Basketball Association (NBA). Rodman played at the small forward position in his early years before becoming a power forward. He earned NBA All-Defensive First Team honors seven times and won the NBA Defensive Player of the Year Award twice.",
+            "heightWeight": "Height 6ft 7in Weight 228 lbs",
+            "website": "https://www.nba.com/stats/player/23/career",
+            "image": "https://cdn.glitch.global/7d6a385e-ec57-4ab3-869c-3c7a85a58f06/dennisRodman.jpg?v=1656193785251"
+        }
+    ]
+}
