@@ -3,7 +3,7 @@ const requestURL = 'https://gist.github.com/lewisssmith19/e2d7a6484ee69eb70bcb4a
 let players = document.querySelector('.players'); 
 // const jsonData = ('./halloffame.json'); 
 // console.log(jsonData);
-fetch(TempURL)
+fetch(requestURL)
   .then(function (response) {
     return response();
   })
