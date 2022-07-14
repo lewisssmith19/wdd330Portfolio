@@ -19,6 +19,7 @@ for (i = 0; i < close.length; i++) {
 
 var list = document.querySelector('ul');
 list.addEventListener('click', function(ev) {
+    console.log(ev.target)
   if (ev.target.tagName === 'LI') {
     ev.target.classList.toggle('checked');
   }
